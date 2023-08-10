@@ -22,10 +22,10 @@
 * 회원 가입페이지에서 입력한 아이디/비밀번호가 로그인 화면으로 돌아올 때 자동 입력되는 기능
 * 자기소개 페이지가 시작될 때 5장 중 랜덤으로 1장의 사진이 표시
 
-![로그인페이지](http://wagzack.synology.me/login.PNG)
-![회원가입페이지](http://wagzack.synology.me/signup.PNG)  
-![자기소개페이지](http://wagzack.synology.me/homepage.PNG)
-![버튼클릭이벤트](http://wagzack.synology.me/selectButton.png)
+<img src="https://github.com/KyungHwa0/Introduce_app/assets/124041716/713d9f14-0830-4dfe-bec7-917aaddb07a5"  width="200">
+<img src="https://github.com/KyungHwa0/Introduce_app/assets/124041716/994046a7-4216-40c9-b946-0f37caa278b7"  width="194">
+<img src="https://github.com/KyungHwa0/Introduce_app/assets/124041716/be885c4f-663a-4cd3-a3ee-24680de08299"  width="200">
+<img src="https://github.com/KyungHwa0/Introduce_app/assets/124041716/cccabd8e-9d8e-4b4d-9a79-72cadd1d3a37"  width="192">
 
 
 
