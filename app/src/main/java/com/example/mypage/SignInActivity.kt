@@ -35,10 +35,8 @@ class SignInActivity : AppCompatActivity() {
             val intent = Intent(this, HomeActivity::class.java)
             if (editId.length() == 0) {
                 Toast.makeText(applicationContext, "아이디/비밀번호를 확인해주세요", Toast.LENGTH_SHORT).show()
-                return@setOnClickListener
             } else if (editPw.length() == 0) {
                 Toast.makeText(applicationContext, "아이디/비밀번호를 확인해주세요", Toast.LENGTH_SHORT).show()
-                return@setOnClickListener
             } else {
                 Toast.makeText(applicationContext, "로그인성공", Toast.LENGTH_SHORT).show()
                 intent.putExtra("strIdData", idData)

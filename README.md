@@ -1,6 +1,10 @@
 # Introduce_app
 자기소개 앱 만들기
 
+### 기술스택
+* Language - kotlin
+* IDE - Android Studio
+
 ### 구현 페이지
 1. 로그인페이지 (SignInActivity)
 * 아이디, 비밀번호를 입력받는 EditText를 넣어야함. (미리보기 글씨 있어야함)

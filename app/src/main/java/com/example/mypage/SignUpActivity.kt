@@ -22,13 +22,10 @@ class SignUpActivity : AppCompatActivity() {
             val intent = Intent(this, SignInActivity::class.java)
             if (edit_id.length() == 0) {
                 Toast.makeText(applicationContext, "입력되지 않은 정보가 있습니다.", Toast.LENGTH_SHORT).show()
-                return@setOnClickListener
             } else if (edit_pw.length() == 0) {
                 Toast.makeText(applicationContext, "입력되지 않은 정보가 있습니다.", Toast.LENGTH_SHORT).show()
-                return@setOnClickListener
             } else if (edit_name.length() == 0) {
                 Toast.makeText(applicationContext, "입력되지 않은 정보가 있습니다.", Toast.LENGTH_SHORT).show()
-                return@setOnClickListener
             } else {
                 intent.putExtra("strIdData", idData)
                 intent.putExtra("strPwData", pwData)
